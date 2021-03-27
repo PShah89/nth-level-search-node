@@ -8,7 +8,7 @@ Special Note:
     let findArrList = [11, 221];
     let uniqueKey = "id";
     
-    function  removeObjectFromJson(){
+    function  findObjectFromJson(){
     	let resultData =  findObjectFromTree({
 			"treeObj": treeData,
 			"findArray": findArrList,
