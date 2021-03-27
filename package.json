@@ -1,0 +1,37 @@
+{
+  "name": "nth-level-search-node",
+  "version": "1.0.0",
+  "description": "To find multiple nodes(objects) from nth level tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PShah89/nth-level-search-node.git"
+  },
+  "keywords": [
+	"find-node",
+    "nth-level-tree",
+    "nthleveltree",
+    "recursive-find-node",
+    "recursive-search-node",
+    "recursive-node",
+    "node-find",
+    "search-multiple-node",
+    "search-multiple-object",
+    "search-multiple-objects from array of objects",
+    "search obect from nth level tree",
+    "search multiple obect from nth level tree",
+    "search node",
+    "find multiple node",
+    "find multiple obect from nth level tree",
+    "find-multiple-objects from array of objects"
+  ],
+  "author": "Pratik Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PShah89/nth-level-search-node/issues"
+  },
+  "homepage": "https://github.com/PShah89/nth-level-search-node#readme"
+}
