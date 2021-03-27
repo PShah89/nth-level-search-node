@@ -1,6 +1,6 @@
 {
   "name": "nth-level-search-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To find multiple nodes(objects) from nth level tree",
   "main": "index.js",
   "scripts": {
